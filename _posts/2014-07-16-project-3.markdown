@@ -4,7 +4,7 @@ subtitle: Website Design
 layout: default
 modal-id: 3
 date: 2020-07-16
-img: golden.png
+img: queratina1.jpg
 thumbnail: queratina1.jpg
 alt: image-alt
 project-date: April 2020
